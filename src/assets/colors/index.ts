@@ -1,0 +1,16 @@
+export const  BODY_TEXT = '#898787';
+export const MAIN_TEXT = '#151515';
+export const GRADIENT_I = '#BE00FF8A';
+export const GRADIENT_II = '#3F46FF6D';
+export const LIGHT_GREY = '#F8F8F8';
+export const LIGHT_GREY_III = '#ECECEC';
+export const WHITE = '#FFFFFF';
+export const BORDER = '#7A7A7A';
+export const PURPLE = '#A933DF';
+export const TRANSPARENT = '#00000000';
+export const LIGHT_GREEN = '#95EC57';
+export const DARK_BLUE = '#053385';
+export const BLUE = '#004FFE';
+export const RED = '#FF4C44';
+export const GREEN = '#00D566';
+export const BROWN = '#F9B5AC';
